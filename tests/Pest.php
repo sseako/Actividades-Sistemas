@@ -1,5 +1,8 @@
 <?php
 
+require_once __DIR__ . '/../app/Models/Vuelos.php';
+
+
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Tests\TestCase;
 
